@@ -11,10 +11,10 @@
 }
 :root{
     --color-bg:#A40101;
-    --color-bg-variant:#573D77;
-    --color-primary:#B07161;
-    --color-primary-variant:#A10040;
-    --color-white:#fff;
+    --color-bg-variant:#c1121f;
+    --color-primary:#003049;
+    --color-primary-variant:#669bbc;
+    --color-white:#cfdbd5;
     --color-light:#FFE6D9;
     --transition: all 1000ms ease;
     --container-width-lg:75%;
@@ -110,3 +110,4 @@ img{
     }
     
 }
+/* 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 */
